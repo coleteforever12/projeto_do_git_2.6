@@ -16,7 +16,7 @@ namespace progeto_do_git
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormRegistar());
         }
     }
 }
