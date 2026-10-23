@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\127060\\Desktop\\progeto_do_git\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormPerfil.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs",
               "RelativeDocumentMoniker": "progeto_do_git\\FormPerfil.cs",
@@ -43,6 +47,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T16:53:18.825Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\FormPerfil.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs",
+              "RelativeToolTip": "progeto_do_git\\FormPerfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T15:34:17.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,7 +75,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Formregistar.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\Formregistar.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
+              "RelativeToolTip": "progeto_do_git\\Formregistar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:39:31.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formregistar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\Formregistar.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs [Design]",
+              "RelativeToolTip": "progeto_do_git\\Formregistar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:37:49.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Program.cs",
               "RelativeDocumentMoniker": "progeto_do_git\\Program.cs",
@@ -68,31 +110,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T16:40:39.587Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Formregistar.cs",
-              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
-              "RelativeDocumentMoniker": "progeto_do_git\\Formregistar.cs",
-              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
-              "RelativeToolTip": "progeto_do_git\\Formregistar.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T16:39:31.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Formregistar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
-              "RelativeDocumentMoniker": "progeto_do_git\\Formregistar.cs",
-              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs [Design]",
-              "RelativeToolTip": "progeto_do_git\\Formregistar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T16:37:49.449Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

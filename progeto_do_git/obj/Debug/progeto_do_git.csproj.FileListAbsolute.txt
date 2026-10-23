@@ -1,0 +1,13 @@
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\bin\Debug\progeto_do_git.exe.config
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\bin\Debug\progeto_do_git.exe
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\bin\Debug\progeto_do_git.pdb
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.csproj.AssemblyReference.cache
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.FormRegistar.resources
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.Properties.Resources.resources
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.csproj.GenerateResource.cache
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.csproj.CoreCompileInputs.cache
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.exe
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.pdb
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.exe.config
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.FormLogin.resources
+C:\Users\127060\Desktop\progeto_do_git\progeto_do_git\obj\Debug\progeto_do_git.FormPerfil.resources
