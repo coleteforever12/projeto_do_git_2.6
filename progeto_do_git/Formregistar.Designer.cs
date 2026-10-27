@@ -79,7 +79,7 @@
             // txtusername
             // 
             this.txtusername.Location = new System.Drawing.Point(245, 146);
-            this.txtusername.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtusername.Margin = new System.Windows.Forms.Padding(4);
             this.txtusername.Name = "txtusername";
             this.txtusername.Size = new System.Drawing.Size(314, 25);
             this.txtusername.TabIndex = 3;
@@ -97,7 +97,7 @@
             // txtNomeReal
             // 
             this.txtNomeReal.Location = new System.Drawing.Point(245, 207);
-            this.txtNomeReal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNomeReal.Margin = new System.Windows.Forms.Padding(4);
             this.txtNomeReal.Name = "txtNomeReal";
             this.txtNomeReal.Size = new System.Drawing.Size(314, 25);
             this.txtNomeReal.TabIndex = 5;
@@ -115,7 +115,7 @@
             // txtemail
             // 
             this.txtemail.Location = new System.Drawing.Point(245, 267);
-            this.txtemail.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtemail.Margin = new System.Windows.Forms.Padding(4);
             this.txtemail.Name = "txtemail";
             this.txtemail.Size = new System.Drawing.Size(314, 25);
             this.txtemail.TabIndex = 7;
@@ -133,7 +133,7 @@
             // txtpassword
             // 
             this.txtpassword.Location = new System.Drawing.Point(245, 327);
-            this.txtpassword.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtpassword.Margin = new System.Windows.Forms.Padding(4);
             this.txtpassword.Name = "txtpassword";
             this.txtpassword.Size = new System.Drawing.Size(314, 25);
             this.txtpassword.TabIndex = 9;
@@ -152,7 +152,7 @@
             // txtConfirmar
             // 
             this.txtConfirmar.Location = new System.Drawing.Point(245, 387);
-            this.txtConfirmar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtConfirmar.Margin = new System.Windows.Forms.Padding(4);
             this.txtConfirmar.Name = "txtConfirmar";
             this.txtConfirmar.Size = new System.Drawing.Size(314, 25);
             this.txtConfirmar.TabIndex = 11;
@@ -166,7 +166,7 @@
             this.btnIniciarsessão.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIniciarsessão.ForeColor = System.Drawing.Color.White;
             this.btnIniciarsessão.Location = new System.Drawing.Point(245, 541);
-            this.btnIniciarsessão.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnIniciarsessão.Margin = new System.Windows.Forms.Padding(4);
             this.btnIniciarsessão.Name = "btnIniciarsessão";
             this.btnIniciarsessão.Size = new System.Drawing.Size(315, 55);
             this.btnIniciarsessão.TabIndex = 12;
@@ -176,13 +176,17 @@
             // 
             // lbllogin
             // 
+            this.lbllogin.BackColor = System.Drawing.Color.Transparent;
+            this.lbllogin.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lbllogin.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.lbllogin.Location = new System.Drawing.Point(146, 626);
+            this.lbllogin.ForeColor = System.Drawing.Color.RoyalBlue;
+            this.lbllogin.Location = new System.Drawing.Point(245, 605);
             this.lbllogin.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbllogin.Name = "lbllogin";
-            this.lbllogin.Size = new System.Drawing.Size(350, 33);
+            this.lbllogin.Size = new System.Drawing.Size(315, 25);
             this.lbllogin.TabIndex = 13;
             this.lbllogin.Text = "Já tens conta? Inicia sessão";
+            this.lbllogin.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblDataNascimento
             // 
@@ -228,7 +232,7 @@
             this.Controls.Add(this.lbltítulo);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "FormRegistar";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
