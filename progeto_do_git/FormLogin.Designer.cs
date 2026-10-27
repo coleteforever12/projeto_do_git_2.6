@@ -1,4 +1,4 @@
-﻿namespace progeto_do_git
+﻿namespace projeto_do_git
 {
     partial class FormLogin
     {

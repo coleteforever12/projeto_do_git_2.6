@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace progeto_do_git
+namespace projeto_do_git
 {
     internal static class Program
     {

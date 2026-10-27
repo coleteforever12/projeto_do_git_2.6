@@ -1,0 +1,12 @@
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\bin\Debug\progeto_do_git.exe.config
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\bin\Debug\progeto_do_git.exe
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\bin\Debug\progeto_do_git.pdb
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\projeto_do_git.csproj.AssemblyReference.cache
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\projeto_do_git.FormLogin.resources
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\projeto_do_git.btnSairSessao.resources
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\projeto_do_git.FormRegistar.resources
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\progeto_do_git.Properties.Resources.resources
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\projeto_do_git.csproj.GenerateResource.cache
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\projeto_do_git.csproj.CoreCompileInputs.cache
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\progeto_do_git.exe
+C:\Users\Luís Silva\Documents\projeto_do_git_2.6\progeto_do_git\obj\Debug\progeto_do_git.pdb

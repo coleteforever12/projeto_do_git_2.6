@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 
-namespace progeto_do_git
+namespace projeto_do_git
 {
     public struct Utilizador
     {

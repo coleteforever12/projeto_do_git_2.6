@@ -68,6 +68,10 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utilizador.cs" />
+    <Compile Include="ValidacaoCamposVaziosException.cs" />
+    <Compile Include="ValidacaoConfirmarPalavrasPasses.cs" />
+    <Compile Include="ValidacaoEmailException.cs" />
+    <Compile Include="ValidacaoIdadeException.cs" />
     <EmbeddedResource Include="FormLogin.resx">
       <DependentUpon>FormLogin.cs</DependentUpon>
     </EmbeddedResource>

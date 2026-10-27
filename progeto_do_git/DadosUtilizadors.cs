@@ -1,10 +1,9 @@
-﻿using progeto_do_git;
-using System.Collections.Generic;
-
-namespace progeto_do_git
+﻿namespace projeto_do_git
 {
-    public static class DadosUtilizadores
+    internal static class DadosUtilizadores
     {
-        public static List<Utilizador> Lista = new List<Utilizador>();
+        public static Utilizador[] Lista = new Utilizador[50];
+
+        public static int PosicaoVazia = 0;
     }
 }
