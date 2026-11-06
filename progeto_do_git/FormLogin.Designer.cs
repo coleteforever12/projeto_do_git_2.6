@@ -34,7 +34,7 @@
             this.lblUsername = new System.Windows.Forms.Label();
             this.txtUsername = new System.Windows.Forms.TextBox();
             this.lblPassword = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtpassword = new System.Windows.Forms.TextBox();
             this.btnIniciarSessão = new System.Windows.Forms.Button();
             this.lblRegistar = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picLogin)).BeginInit();
@@ -43,9 +43,9 @@
             // picLogin
             // 
             this.picLogin.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.picLogin.Location = new System.Drawing.Point(150, 25);
+            this.picLogin.Location = new System.Drawing.Point(148, 26);
             this.picLogin.Name = "picLogin";
-            this.picLogin.Size = new System.Drawing.Size(120, 120);
+            this.picLogin.Size = new System.Drawing.Size(124, 117);
             this.picLogin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picLogin.TabIndex = 0;
             this.picLogin.TabStop = false;
@@ -93,13 +93,13 @@
             this.lblPassword.TabIndex = 5;
             this.lblPassword.Text = "Palavra-passe";
             // 
-            // textBox1
+            // txtpassword
             // 
-            this.textBox1.Location = new System.Drawing.Point(35, 343);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(350, 25);
-            this.textBox1.TabIndex = 6;
-            this.textBox1.UseSystemPasswordChar = true;
+            this.txtpassword.Location = new System.Drawing.Point(35, 343);
+            this.txtpassword.Name = "txtpassword";
+            this.txtpassword.Size = new System.Drawing.Size(350, 25);
+            this.txtpassword.TabIndex = 6;
+            this.txtpassword.UseSystemPasswordChar = true;
             // 
             // btnIniciarSessão
             // 
@@ -114,15 +114,19 @@
             this.btnIniciarSessão.TabIndex = 7;
             this.btnIniciarSessão.Text = "Iniciar Sessão";
             this.btnIniciarSessão.UseVisualStyleBackColor = false;
+            this.btnIniciarSessão.Click += new System.EventHandler(this.btnIniciarSessão_Click);
             // 
             // lblRegistar
             // 
-            this.lblRegistar.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRegistar.Location = new System.Drawing.Point(60, 448);
+            this.lblRegistar.BackColor = System.Drawing.Color.RoyalBlue;
+            this.lblRegistar.Font = new System.Drawing.Font("Segoe UI", 13F);
+            this.lblRegistar.ForeColor = System.Drawing.Color.White;
+            this.lblRegistar.Location = new System.Drawing.Point(35, 453);
             this.lblRegistar.Name = "lblRegistar";
-            this.lblRegistar.Size = new System.Drawing.Size(300, 32);
+            this.lblRegistar.Size = new System.Drawing.Size(177, 55);
             this.lblRegistar.TabIndex = 8;
             this.lblRegistar.Text = "Não tens conta?\r\nRegista-te\r\n";
+            this.lblRegistar.Click += new System.EventHandler(this.lblRegistar_Click);
             // 
             // FormLogin
             // 
@@ -132,7 +136,7 @@
             this.ClientSize = new System.Drawing.Size(576, 590);
             this.Controls.Add(this.lblRegistar);
             this.Controls.Add(this.btnIniciarSessão);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtpassword);
             this.Controls.Add(this.lblPassword);
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.lblUsername);
@@ -141,7 +145,7 @@
             this.Controls.Add(this.picLogin);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "FormLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -160,7 +164,7 @@
         private System.Windows.Forms.Label lblUsername;
         private System.Windows.Forms.TextBox txtUsername;
         private System.Windows.Forms.Label lblPassword;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtpassword;
         private System.Windows.Forms.Button btnIniciarSessão;
         private System.Windows.Forms.Label lblRegistar;
     }

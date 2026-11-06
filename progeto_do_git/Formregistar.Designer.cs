@@ -187,6 +187,7 @@
             this.lbllogin.TabIndex = 13;
             this.lbllogin.Text = "Já tens conta? Inicia sessão";
             this.lbllogin.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lbllogin.Click += new System.EventHandler(this.lbllogin_Click);
             // 
             // lblDataNascimento
             // 

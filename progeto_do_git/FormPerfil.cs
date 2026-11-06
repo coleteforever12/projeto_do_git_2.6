@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace progeto_do_git
 {
-    public partial class btnSairSessao : Form
+    public partial class FormPerfil : Form
     {
-        public btnSairSessao()
+        public FormPerfil()
         {
             InitializeComponent();
         }

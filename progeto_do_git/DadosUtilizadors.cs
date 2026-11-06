@@ -6,5 +6,6 @@ namespace progeto_do_git
     public static class DadosUtilizadores
     {
         public static List<Utilizador> Lista = new List<Utilizador>();
+        public static int PosicaoVazia = 0;
     }
 }

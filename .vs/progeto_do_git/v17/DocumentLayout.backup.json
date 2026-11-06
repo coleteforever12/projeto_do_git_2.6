@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\127060\\Desktop\\progeto_do_git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +19,44 @@
       "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\formregistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\validacaoconfirmarpalavraspasseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\validacaoconfirmarpalavraspasseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\validacaocamposvaziosexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\validacaocamposvaziosexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\validacaousernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\validacaousernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\validacaoidadeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\validacaoidadeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\dadosutilizadors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\dadosutilizadors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|c:\\users\\127060\\desktop\\progeto_do_git\\progeto_do_git\\valida\u00E7\u00E3oemailexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91D4AD2-6736-47AF-9DED-398E69C239FF}|progeto_do_git\\progeto_do_git.csproj|solutionrelative:progeto_do_git\\valida\u00E7\u00E3oemailexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +66,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DadosUtilizadors.cs",
-              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\DadosUtilizadors.cs",
-              "RelativeDocumentMoniker": "progeto_do_git\\DadosUtilizadors.cs",
-              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\DadosUtilizadors.cs*",
-              "RelativeToolTip": "progeto_do_git\\DadosUtilizadors.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormLogin.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormLogin.cs",
+              "RelativeToolTip": "progeto_do_git\\FormLogin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T17:09:49.06Z",
+              "WhenOpened": "2026-11-06T16:31:19.216Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Formregistar.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\Formregistar.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
+              "RelativeToolTip": "progeto_do_git\\Formregistar.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwFgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:39:31.699Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\FormPerfil.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs",
+              "RelativeToolTip": "progeto_do_git\\FormPerfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T17:27:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidacaoConfirmarPalavrasPasseException.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\ValidacaoConfirmarPalavrasPasseException.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\ValidacaoConfirmarPalavrasPasseException.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\ValidacaoConfirmarPalavrasPasseException.cs",
+              "RelativeToolTip": "progeto_do_git\\ValidacaoConfirmarPalavrasPasseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:54:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidacaoCamposVaziosException.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\ValidacaoCamposVaziosException.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\ValidacaoCamposVaziosException.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\ValidacaoCamposVaziosException.cs",
+              "RelativeToolTip": "progeto_do_git\\ValidacaoCamposVaziosException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:50:32.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Utilizador.cs",
               "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Utilizador.cs",
               "RelativeDocumentMoniker": "progeto_do_git\\Utilizador.cs",
-              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Utilizador.cs*",
-              "RelativeToolTip": "progeto_do_git\\Utilizador.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Utilizador.cs",
+              "RelativeToolTip": "progeto_do_git\\Utilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T16:50:39.193Z",
               "EditorCaption": ""
@@ -69,18 +151,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FormPerfil.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs",
-              "RelativeDocumentMoniker": "progeto_do_git\\FormPerfil.cs",
-              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs [Design]",
-              "RelativeToolTip": "progeto_do_git\\FormPerfil.cs [Design]",
+              "Title": "Formregistar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\Formregistar.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs [Design]",
+              "RelativeToolTip": "progeto_do_git\\Formregistar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T16:53:18.825Z",
+              "WhenOpened": "2026-10-20T16:37:49.449Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormLogin.cs",
               "RelativeDocumentMoniker": "progeto_do_git\\FormLogin.cs",
@@ -92,7 +174,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "FormPerfil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\FormPerfil.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\FormPerfil.cs [Design]",
+              "RelativeToolTip": "progeto_do_git\\FormPerfil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:53:18.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidacaoUserNameException.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\ValidacaoUserNameException.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\ValidacaoUserNameException.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\ValidacaoUserNameException.cs",
+              "RelativeToolTip": "progeto_do_git\\ValidacaoUserNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T16:53:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidacaoIdadeException.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\ValidacaoIdadeException.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\ValidacaoIdadeException.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\ValidacaoIdadeException.cs",
+              "RelativeToolTip": "progeto_do_git\\ValidacaoIdadeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:55:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Program.cs",
               "RelativeDocumentMoniker": "progeto_do_git\\Program.cs",
@@ -100,33 +220,34 @@
               "RelativeToolTip": "progeto_do_git\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T16:40:39.587Z",
+              "WhenOpened": "2026-11-06T16:46:32.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Formregistar.cs",
-              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
-              "RelativeDocumentMoniker": "progeto_do_git\\Formregistar.cs",
-              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
-              "RelativeToolTip": "progeto_do_git\\Formregistar.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBMAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "DadosUtilizadors.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\DadosUtilizadors.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\DadosUtilizadors.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\DadosUtilizadors.cs",
+              "RelativeToolTip": "progeto_do_git\\DadosUtilizadors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T16:39:31.699Z",
+              "WhenOpened": "2026-11-06T16:38:00.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Formregistar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs",
-              "RelativeDocumentMoniker": "progeto_do_git\\Formregistar.cs",
-              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Formregistar.cs [Design]",
-              "RelativeToolTip": "progeto_do_git\\Formregistar.cs [Design]",
+              "DocumentIndex": 13,
+              "Title": "Valida\u00E7\u00E3oEmailExeption.cs",
+              "DocumentMoniker": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Valida\u00E7\u00E3oEmailExeption.cs",
+              "RelativeDocumentMoniker": "progeto_do_git\\Valida\u00E7\u00E3oEmailExeption.cs",
+              "ToolTip": "C:\\Users\\127060\\Desktop\\progeto_do_git\\progeto_do_git\\Valida\u00E7\u00E3oEmailExeption.cs",
+              "RelativeToolTip": "progeto_do_git\\Valida\u00E7\u00E3oEmailExeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T16:37:49.449Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-06T15:47:50.026Z",
+              "EditorCaption": ""
             }
           ]
         }
